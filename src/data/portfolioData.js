@@ -71,7 +71,7 @@ export const portfolioData = {
     contact: {
         email: "ahmed.ashraf.oj@gmail.com",
         github: "https://github.com/ahmedashraf412",
-        linkedin: "https://linkedin.com/in/ahmedashraf",
-        twitter: "https://twitter.com/ahmedashraf"
+        linkedin: "https://linkedin.com/in/ahmedashraf412",
+        twitter: "https://twitter.com/"
     }
 };
