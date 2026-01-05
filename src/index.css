@@ -4,10 +4,8 @@
   --color-border: hsl(var(--border));
   --color-background: hsl(var(--background));
   --color-foreground: hsl(var(--foreground));
-
   --color-primary: hsl(var(--primary));
   --color-primary-foreground: hsl(var(--primary-foreground));
-
   --color-card: hsl(var(--card));
 
   --animate-float: float 6s ease-in-out infinite;
@@ -107,6 +105,10 @@
     font-feature-settings:
       "rlig" 1,
       "calt" 1;
+  }
+
+  section {
+    scroll-margin-top: 100px;
   }
 }
 
