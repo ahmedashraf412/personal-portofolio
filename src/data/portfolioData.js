@@ -31,11 +31,11 @@ export const portfolioData = {
   projects: [
     {
       id: 1,
-      title: "SaaS Landing Page",
-      description: "A beautiful landing page app using html/css javascript",
+      title: "Advanced Construction",
+      description: "Construction profile website using Next.js",
       image: "/projects/1.png",
-      tags: ["HTML", "CSS", "JS"],
-      link: "https://github.com/ahmedashraf412",
+      tags: ["Next.js", "React.js", "Tailwind CSS"],
+      link: "https://advancedconstruction-ts.netlify.app/en",
     },
     {
       id: 2,
